@@ -25,6 +25,15 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 **Procedure**
 
 /* write all the steps invloved */
+Type the program in Quartus software.
+
+Compile and run the program.
+
+Generate the RTL schematic and save the logic diagram.
+
+Create nodes for inputs and outputs to generate the timing diagram.
+
+For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
